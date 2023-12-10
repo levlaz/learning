@@ -1,0 +1,15 @@
+* Preface 
+
+Code examples can be found here: https://github.com/learning-go-book
+
+* Chapter 1: Setting up Development Environment
+
+Common go tools
+| command | purpose            |
+|---------+--------------------|
+| build   | compiler           |
+| fmt     | code formatter     |
+| mod     | dependency manager |
+| test    | test runner        |
+| vet     | linter             |
+
