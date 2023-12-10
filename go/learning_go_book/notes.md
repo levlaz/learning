@@ -28,3 +28,4 @@ instead use the `go get` and `go mod tidy` instead.
 Goodies for IDEs https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins 
 
 
+There is a go playground that you can use to test things out if you'd like. 
