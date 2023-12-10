@@ -1,8 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"levlaz.org/learning_go/ch2"
+)
 
 func main() {
-	fmt.Println("Hello, World!")
-	// fmt.Println(quote.Go)
+	// ch2.Convert()
+	ch2.PrintVars()
 }
